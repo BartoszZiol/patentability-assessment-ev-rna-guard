@@ -25,8 +25,9 @@ Poszczególne założenia systemu, w tym stosowanie biomarkerów miRNA, separacj
 
 ### Dokumentacja
 
+- [Przeczytaj analizę patentowalności](docs/Patentability-Assessment.md)
 - [Źródła patentowe i prawne](references/Patent-Sources.md)
-- Raport PDF: `docs/EV-RNA-Guard-Patentability-Assessment.pdf` (do uzupełnienia)
+- Raport PDF: `docs/EV-RNA-Guard-Patentability-Assessment.pdf` (plik PDF do dodania)
 
 ### Zastrzeżenie
 
